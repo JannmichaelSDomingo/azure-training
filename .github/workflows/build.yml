@@ -117,4 +117,3 @@ jobs:
             handson-k8.yaml
           images: 'handson12345.azurecr.io/exist-web:${{ github.sha }}'
           pull-images: false
-
